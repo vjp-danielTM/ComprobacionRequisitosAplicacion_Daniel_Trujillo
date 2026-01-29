@@ -87,8 +87,8 @@ En mi caso, para un proyecto pequeño y educativo como este simulador de lavader
 
 Lo más valioso de esta actividad ha sido entender por qué la gran mayoría de controles no aplican a mi aplicación. Esto me ha reforzado la idea clave de que la seguridad debe ser proporcional al riesgo real de la aplicación: no todas las apps necesitan el mismo nivel de protección, y forzar controles innecesarios solo añade complejidad sin beneficio.
 
-### Enlace añ excel
-![Excel Daniel](https://github.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/blob/main/ASVS-checklist-en-DanielTrujilloMartin.ods)
+### Enlace al excel
+[Excel Daniel](https://github.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/blob/main/ASVS-checklist-en-DanielTrujilloMartin.ods)
 
 #### Autor
 
