@@ -30,11 +30,14 @@ Por tanto, **solo aplican los controles de Nivel 1** de los capítulos solicitad
   - **V5 – Validación de entrada y codificación de salida**  
   - **V10 – Código malicioso**
 
-[Foto 1]
+![Foto de validinputs](https://raw.githubusercontent.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/refs/heads/main/capturas/1.png)
 
-[Foto 2]
 
-[Foto 3]
+![Foto de validinputs](https://raw.githubusercontent.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/refs/heads/main/capturas/2.png)
+
+
+![Foto de validinputs](https://raw.githubusercontent.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/refs/heads/main/capturas/3.png)
+
 
 ### Resumen de cumplimientos encontrados
 
@@ -47,7 +50,8 @@ Por tanto, **solo aplican los controles de Nivel 1** de los capítulos solicitad
 | 5.5.2     | 1     | Not Applicable | No se procesa XML en ningún momento                                             | No aplica              |
 | 5.5.3     | 1     | Not Applicable | No se deserializa datos no confiables (solo booleanos internos)                 | No aplica              |
 
-[Foto 4]
+![Foto de Maliciuscode](https://raw.githubusercontent.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/refs/heads/main/capturas/4.png)
+
 
 **Capítulo V10 – Malicious Code**  
 | Requisito | Nivel | Estado         | Comentario breve                                                                 | Archivo referencia     |
@@ -83,4 +87,9 @@ En mi caso, para un proyecto pequeño y educativo como este simulador de lavader
 
 Lo más valioso de esta actividad ha sido entender por qué la gran mayoría de controles no aplican a mi aplicación. Esto me ha reforzado la idea clave de que la seguridad debe ser proporcional al riesgo real de la aplicación: no todas las apps necesitan el mismo nivel de protección, y forzar controles innecesarios solo añade complejidad sin beneficio.
 
+### Enlace añ excel
+![Excel Daniel](https://github.com/vjp-danielTM/ComprobacionRequisitosAplicacion_Daniel_Trujillo/blob/main/ASVS-checklist-en-DanielTrujilloMartin.ods)
 
+#### Autor
+
+> **_Daniel Trujillo Martin_**
